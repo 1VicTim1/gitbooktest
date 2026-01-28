@@ -1,0 +1,125 @@
+{
+  "device": {
+    "name": "Redmi 10C/10/10 Power",
+    "codename": "fog/rain/wind",
+    "model": "Xiaomi"
+  },
+  "roms": [
+    {
+      "family": "CrDroid",
+      "android": "16",
+      "versions": [
+        {
+          "name": "CrDroid 12.3",
+          "date": "2025-12-01",
+          "links": [
+            {
+              "name": "PixelDrain",
+              "url": "https://pixeldrain.com/u/jkjY42JK"
+            }
+          ]
+        },
+        {
+          "name": "CrDroid 12.4",
+          "date": "2025-12-10",
+          "links": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/Romeo13card/crdroid_ota_update/releases/download/crDroidAndroid-16.0-20251210-fog-v12.4/crDroidAndroid-16.0-20251210-fog-v12.4.zip"
+            }
+          ]
+        },
+        {
+          "name": "CrDroid 12.5",
+          "date": "2025-12-30",
+          "links": [
+            {
+              "name": "GitHub",
+              "url": "https://github.com/Romeo13card/crdroid_ota_update/releases/download/crDroidAndroid-16.0-20251230-fog-v12.5/crDroidAndroid-16.0-20251230-fog-v12.5.zip"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "AxionAOSP",
+      "android": "16",
+      "versions": [
+        {
+          "name": "AxionAOSP 2.4 (VANILLA)",
+          "date": "2025-11-15",
+          "links": [
+            {
+              "name": "Google Drive",
+              "url": "https://drive.usercontent.google.com/download?id=1LQKFoseKahGCAaka1uOlHWu-vUvLnCk_&export=download"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "Project MistOS",
+      "android": "16",
+      "versions": [
+        {
+          "name": "Project MistOS 4.4 (VANILLA)",
+          "date": "2025-11-20",
+          "links": [
+            {
+              "name": "Google Drive",
+              "url": "https://drive.usercontent.google.com/download?id=10TQcf5wu_yA_R8Z3ULwohh6z2Cj0Ap4a&export=download"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "Project Matrixx",
+      "android": "15",
+      "versions": [
+        {
+          "name": "Project Matrixx 11.9.0",
+          "date": "2025-09-15",
+          "links": [
+            {
+              "name": "PixelDrain",
+              "url": "https://pixeldrain.com/u/Vm5YNRkv"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "AlphaDroid",
+      "android": "15",
+      "versions": [
+        {
+          "name": "AlphaDroid 3.2.1",
+          "date": "2025-10-04",
+          "links": [
+            {
+              "name": "SourceForge",
+              "url": "https://sourceforge.net/projects/alphadroid-project/files/fog/AlphaDroid-15-20251004-vanilla-fog-v3.2.1.zip/download"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "family": "BlackIron",
+      "android": "15",
+      "versions": [
+        {
+          "name": "BlackIron 5.8",
+          "date": "2025-08-20",
+          "links": [
+            {
+              "name": "PixelDrain",
+              "url": "https://pixeldrain.com/u/JT6aZZPZ"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
